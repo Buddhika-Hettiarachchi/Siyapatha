@@ -1,0 +1,36 @@
+$bg-color: green;
+
+// body {
+//   background: $bg-color;
+// }
+
+h1 {
+  color: white;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+}
+
+.navbar-nav,
+.mr-auto {
+  flex: 1;
+  margin: auto !important;
+  display: flex;
+  justify-content: flex-end;
+}
+.navbar-nav > li > a {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+.navbar {
+  min-height: 32px !important;
+}
+.jumbotron {
+  background-image: url("../images/unity_black_and_white.jpg");
+  background-size: cover;
+  opacity: 0.8;
+  background-repeat: no-repeat;
+}
+

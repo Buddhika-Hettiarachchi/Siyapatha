@@ -1,0 +1,24 @@
+{
+  "name": "charity",
+  "version": "1.0.0",
+  "description": "This is Siyapatha Charity Organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Buddhika",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.4.0",
+    "bootstrap": "^4.4.1",
+    "gulp-shell": "^0.8.0",
+    "jquery": "3.2.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
